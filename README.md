@@ -14,15 +14,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maresias&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Maresias's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maresias&layout=compact&theme=radical&hide_border=true" alt="Maresias's Most Used Languages" />
-</p>
-
----
-
 ## 🔥 Contribuições Recentes
 
 <p align="center">
@@ -38,6 +29,15 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maresias&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Maresias's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maresias&layout=compact&theme=radical&hide_border=true" alt="Maresias's Most Used Languages" />
 </p>
 
 ---
