@@ -17,7 +17,7 @@
 ## 🔥 Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maresias&theme=radical&hide_border=true" alt="Maresias's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maresias&theme=default&hide_border=true" alt="Maresias's GitHub Streak" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maresias&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Maresias's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maresias&layout=compact&theme=radical&hide_border=true" alt="Maresias's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maresias&layout=compact&theme=default&hide_border=true" alt="Maresias's Most Used Languages" />
 </p>
 
 ---
