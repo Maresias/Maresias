@@ -8,8 +8,21 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 💻 Experiência com desenvolvimento backend em **Node.js** e **TypeScript**
+## Habilidades Técnicas
+- 💻 **Node.js**: Desenvolvimento de aplicações backend e APIs RESTful.
+   - **Fastify**: Criação de APIs performáticas e escaláveis com suporte a plugins.
+   - **Zod**: Validação de schemas e dados, garantindo segurança e consistência nas entradas.
+   - **SOLID**: Aplicação de princípios para design de software robusto e escalável.
+   - **Vitest**: Testes automatizados para garantir a qualidade e confiabilidade das aplicações.
+- **ORM**: Manipulação e modelagem de dados com eficiência.
+   - **Prisma**: Integração para consultas otimizadas e mapeamento de objetos-relacionais.
+- **SQL**: Criação de queries, modelagem e manipulação de dados relacionais.
 - 📦 Conhecimento em **Docker** e ambientes de desenvolvimento **macOS**
+- 💻 **React**: Desenvolvimento de interfaces dinâmicas com gerenciamento de estado.
+- 💻 **CSS**: Estilização de interfaces modernas e responsivas.
+- 💻 **TypeScript**: Uso em backend para maior segurança de tipagem e controle de erros.
+
+
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 
 ---
