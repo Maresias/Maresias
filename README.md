@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Alexandre 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend | Node.js & TypeScript</b>
+  <b> Estou em busca da minha primeira oportunidade profissional como desenvolvedor. Tenho muita motivação para aprender e contribuir com projetos reais, e estou comprometido em construir uma carreira sólida na área de tecnologia </b>
 </p>
 
 ---
